@@ -1,4 +1,5 @@
-homework2 
+*Homework2 
+
 Pittayut Sothanakul 5910546678
 In A simple recursive function for this is:
 
